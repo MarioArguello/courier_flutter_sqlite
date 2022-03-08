@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:simple_crud/login_registro/suma.dart';
+import 'package:simple_crud/ejercicio1/suma.dart';
 
 import 'package:simple_crud/ejercicio2/home_insert.dart';
 

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 class Suma extends StatefulWidget {
-  static String tag = 'login-page';
+  static String tag = 'suma-page';
   @override
   _SumaPageState createState() => new _SumaPageState();
 }
